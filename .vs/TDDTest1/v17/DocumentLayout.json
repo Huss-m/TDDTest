@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1tests\\test 2\\task 2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|solutionrelative:tddtest1tests\\test 2\\task 2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 3\\weatherservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 3\\weatherservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 2\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 2\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1tests\\test 2\\task 2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|solutionrelative:tddtest1tests\\test 2\\task 2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StringProcessorTests.cs",
-              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
-              "RelativeDocumentMoniker": "TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
-              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
-              "RelativeToolTip": "TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDIAAAABAAAAAAAAAA==",
+              "Title": "WeatherServiceFacade.cs",
+              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherServiceFacade.cs",
+              "RelativeDocumentMoniker": "TDDTest1\\Task\\Task 3\\WeatherServiceFacade.cs",
+              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherServiceFacade.cs",
+              "RelativeToolTip": "TDDTest1\\Task\\Task 3\\WeatherServiceFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:30:59.882Z",
+              "WhenOpened": "2025-01-21T12:06:37.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WeatherClient.cs",
+              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherClient.cs",
+              "RelativeDocumentMoniker": "TDDTest1\\Task\\Task 3\\WeatherClient.cs",
+              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherClient.cs",
+              "RelativeToolTip": "TDDTest1\\Task\\Task 3\\WeatherClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:06:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
+              "RelativeDocumentMoniker": "TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
+              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
+              "RelativeToolTip": "TDDTest1Tests\\Test 2\\Task 2\\StringProcessorTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:30:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StringProcessor.cs",
               "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 2\\StringProcessor.cs",
               "RelativeDocumentMoniker": "TDDTest1\\Task\\Task 2\\StringProcessor.cs",
               "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 2\\StringProcessor.cs",
               "RelativeToolTip": "TDDTest1\\Task\\Task 2\\StringProcessor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:50:14.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:50:14.501Z"
             }
           ]
         }
