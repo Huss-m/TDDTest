@@ -1,0 +1,15 @@
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.AssemblyInfoInputs.cache
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.AssemblyInfo.cs
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.csproj.CoreCompileInputs.cache
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.sourcelink.json
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\bin\Debug\net8.0\TDDTest1.exe
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\bin\Debug\net8.0\TDDTest1.deps.json
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\bin\Debug\net8.0\TDDTest1.runtimeconfig.json
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\bin\Debug\net8.0\TDDTest1.dll
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\bin\Debug\net8.0\TDDTest1.pdb
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.dll
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\refint\TDDTest1.dll
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.pdb
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\TDDTest1.genruntimeconfig.cache
+C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\obj\Debug\net8.0\ref\TDDTest1.dll
