@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.8837" branch-rate="0.5555" version="1.9" timestamp="1738065617" lines-covered="152" lines-valid="172" branches-covered="10" branches-valid="18">
+<coverage line-rate="0.9134" branch-rate="0.6923" version="1.9" timestamp="1738067495" lines-covered="211" lines-valid="231" branches-covered="18" branches-valid="26">
   <sources>
     <source>C:\Users\99husmoh\</source>
   </sources>
   <packages>
-    <package name="TDDTest1" line-rate="0.6884999999999999" branch-rate="0.5555" complexity="22">
+    <package name="TDDTest1" line-rate="0.7737999999999999" branch-rate="0.6923" complexity="31">
       <classes>
         <class name="TDDTest1.Task.Program" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1\Task\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -20,6 +20,106 @@
             <line number="6" hits="0" branch="False" />
             <line number="7" hits="0" branch="False" />
             <line number="8" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="TDDTest1.Task.Task_5.BankAccount" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1\Task\Task 5\BankAccount.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="get_Balance" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Deposit" signature="(System.Decimal)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="25" hits="3" branch="False" />
+                <line number="26" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="14" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="27" hits="2" branch="False" />
+                <line number="28" hits="2" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Withdraw" signature="(System.Decimal)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="35" hits="4" branch="False" />
+                <line number="36" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="14" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="37" hits="2" branch="False" />
+                <line number="38" hits="2" branch="False" />
+                <line number="41" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="42" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="46" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.Decimal)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="15" hits="9" branch="False" />
+                <line number="16" hits="9" branch="False" />
+                <line number="17" hits="9" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="21" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="21" hits="8" branch="False" />
+                <line number="22" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="2" branch="False" />
+            <line number="25" hits="3" branch="False" />
+            <line number="26" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="14" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="27" hits="2" branch="False" />
+            <line number="28" hits="2" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="35" hits="4" branch="False" />
+            <line number="36" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="14" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="37" hits="2" branch="False" />
+            <line number="38" hits="2" branch="False" />
+            <line number="41" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="42" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="46" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="15" hits="9" branch="False" />
+            <line number="16" hits="9" branch="False" />
+            <line number="17" hits="9" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="21" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="21" hits="8" branch="False" />
+            <line number="22" hits="8" branch="False" />
           </lines>
         </class>
         <class name="TDDTest1.Task.Task_3.WeatherClient" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1\Task\Task 3\WeatherClient.cs" line-rate="1" branch-rate="0.5" complexity="2">
@@ -286,7 +386,7 @@
         </class>
       </classes>
     </package>
-    <package name="TDDTest1Tests" line-rate="0.9909" branch-rate="1" complexity="16">
+    <package name="TDDTest1Tests" line-rate="0.9931" branch-rate="1" complexity="25">
       <classes>
         <class name="WeatherServiceFacadeTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
@@ -626,6 +726,120 @@
             <line number="46" hits="1" branch="False" />
             <line number="48" hits="1" branch="False" />
             <line number="49" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="TDDTest1.Task.Task_5.Tests.BankAccountTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 5\BankAccountTests.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="Initialize" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="8" branch="False" />
+                <line number="19" hits="8" branch="False" />
+                <line number="20" hits="8" branch="False" />
+              </lines>
+            </method>
+            <method name="DepositTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="WithdrawTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="38" hits="1" branch="False" />
+                <line number="40" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_WhenOverdrawn" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="45" hits="1" branch="False" />
+                <line number="47" hits="1" branch="False" />
+                <line number="50" hits="2" branch="False" />
+                <line number="51" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Deposit_ThrowsException_ForNegativeAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="1" branch="False" />
+                <line number="57" hits="1" branch="False" />
+                <line number="60" hits="2" branch="False" />
+                <line number="61" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_ForNegativeAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="1" branch="False" />
+                <line number="67" hits="1" branch="False" />
+                <line number="70" hits="2" branch="False" />
+                <line number="71" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_ForZeroAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="75" hits="1" branch="False" />
+                <line number="77" hits="1" branch="False" />
+                <line number="80" hits="2" branch="False" />
+                <line number="81" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Deposit_ThrowsException_ForZeroAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="85" hits="1" branch="False" />
+                <line number="87" hits="1" branch="False" />
+                <line number="90" hits="2" branch="False" />
+                <line number="91" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Account_ThrowsException_WhenInitializedWithNegativeBalance" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="95" hits="1" branch="False" />
+                <line number="97" hits="2" branch="False" />
+                <line number="98" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="8" branch="False" />
+            <line number="19" hits="8" branch="False" />
+            <line number="20" hits="8" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="38" hits="1" branch="False" />
+            <line number="40" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="47" hits="1" branch="False" />
+            <line number="50" hits="2" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="55" hits="1" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="60" hits="2" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="70" hits="2" branch="False" />
+            <line number="71" hits="1" branch="False" />
+            <line number="75" hits="1" branch="False" />
+            <line number="77" hits="1" branch="False" />
+            <line number="80" hits="2" branch="False" />
+            <line number="81" hits="1" branch="False" />
+            <line number="85" hits="1" branch="False" />
+            <line number="87" hits="1" branch="False" />
+            <line number="90" hits="2" branch="False" />
+            <line number="91" hits="1" branch="False" />
+            <line number="95" hits="1" branch="False" />
+            <line number="97" hits="2" branch="False" />
+            <line number="98" hits="1" branch="False" />
           </lines>
         </class>
       </classes>
