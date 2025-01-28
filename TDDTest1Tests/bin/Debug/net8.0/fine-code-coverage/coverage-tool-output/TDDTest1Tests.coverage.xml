@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.8837" branch-rate="0.5555" version="1.9" timestamp="1738064739" lines-covered="152" lines-valid="172" branches-covered="10" branches-valid="18">
+<coverage line-rate="0.8837" branch-rate="0.5555" version="1.9" timestamp="1738065379" lines-covered="152" lines-valid="172" branches-covered="10" branches-valid="18">
   <sources>
     <source>C:\Users\99husmoh\</source>
   </sources>
@@ -288,7 +288,7 @@
     </package>
     <package name="TDDTest1Tests" line-rate="0.9909" branch-rate="1" complexity="16">
       <classes>
-        <class name="WeatherServiceFacadeTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="Setup" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -306,7 +306,7 @@
             <line number="20" hits="3" branch="False" />
           </lines>
         </class>
-        <class name="WeatherServiceFacadeTests/&lt;&gt;c__DisplayClass3_0/&lt;&lt;GetWeather_ThrowsArgumentException_ForEmptyCity&gt;b__1&gt;d" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests/&lt;&gt;c__DisplayClass3_0/&lt;&lt;GetWeather_ThrowsArgumentException_ForEmptyCity&gt;b__1&gt;d" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -322,7 +322,7 @@
             <line number="37" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="WeatherServiceFacadeTests/&lt;&gt;c__DisplayClass4_0/&lt;&lt;GetWeather_ThrowsArgumentException_ForNullCity&gt;b__1&gt;d" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests/&lt;&gt;c__DisplayClass4_0/&lt;&lt;GetWeather_ThrowsArgumentException_ForNullCity&gt;b__1&gt;d" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -338,7 +338,7 @@
             <line number="55" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ReturnsMockedWeatherData_ForGothenburg&gt;d__5" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ReturnsMockedWeatherData_ForGothenburg&gt;d__5" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -366,7 +366,7 @@
             <line number="75" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ThrowsArgumentException_ForEmptyCity&gt;d__3" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ThrowsArgumentException_ForEmptyCity&gt;d__3" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -390,7 +390,7 @@
             <line number="38" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ThrowsArgumentException_ForNullCity&gt;d__4" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="WeatherServiceFacadeTests/&lt;GetWeather_ThrowsArgumentException_ForNullCity&gt;d__4" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Task3\WeatherClientTests.cs" line-rate="1" branch-rate="1" complexity="1">
           <methods>
             <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -426,7 +426,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="TDDTest1.Task.Task_1.Tests.CalculatorTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test1\Test 1\CalculatorTests.cs" line-rate="1" branch-rate="1" complexity="6">
+        <class name="TDDTest1Tests.Test.Test1.CalculatorTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Test1\CalculatorTests.cs" line-rate="1" branch-rate="1" complexity="6">
           <methods>
             <method name="AddTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -568,7 +568,7 @@
             <line number="109" hits="1" branch="False" />
           </lines>
         </class>
-        <class name="TDDTest1.Task.Task_2.Tests.StringProcessorTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test 2\Task 2\StringProcessorTests.cs" line-rate="1" branch-rate="1" complexity="3">
+        <class name="TDDTest1.Task.Task_2.Tests.StringProcessorTests" filename="source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Test 2\StringProcessorTests.cs" line-rate="1" branch-rate="1" complexity="3">
           <methods>
             <method name="ToLowerCaseTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>

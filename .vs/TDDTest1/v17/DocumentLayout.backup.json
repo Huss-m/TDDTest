@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1tests\\task\\task 3\\weatherclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|solutionrelative:tddtest1tests\\task\\task 3\\weatherclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 3\\weatherservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 3\\weatherservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1tests\\test\\task3\\weatherclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|solutionrelative:tddtest1tests\\test\\task3\\weatherclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherClientTests.cs",
-              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Task\\Task 3\\WeatherClientTests.cs",
-              "RelativeDocumentMoniker": "TDDTest1Tests\\Task\\Task 3\\WeatherClientTests.cs",
-              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Task\\Task 3\\WeatherClientTests.cs",
-              "RelativeToolTip": "TDDTest1Tests\\Task\\Task 3\\WeatherClientTests.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowD0AAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test\\Task3\\WeatherClientTests.cs",
+              "RelativeDocumentMoniker": "TDDTest1Tests\\Test\\Task3\\WeatherClientTests.cs",
+              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Test\\Task3\\WeatherClientTests.cs",
+              "RelativeToolTip": "TDDTest1Tests\\Test\\Task3\\WeatherClientTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T13:39:28.419Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WeatherClient.cs",
               "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherClient.cs",
               "RelativeDocumentMoniker": "TDDTest1\\Task\\Task 3\\WeatherClient.cs",
               "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 3\\WeatherClient.cs",
               "RelativeToolTip": "TDDTest1\\Task\\Task 3\\WeatherClient.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T12:06:02.062Z",
               "EditorCaption": ""
