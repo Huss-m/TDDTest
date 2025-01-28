@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.883720930232558" branch-rate="0.555555555555556" lines-covered="152" lines-valid="172" branches-covered="10" branches-valid="18" complexity="38" version="0" timestamp="1738069217">
+<coverage line-rate="0.913419913419913" branch-rate="0.692307692307692" lines-covered="211" lines-valid="231" branches-covered="18" branches-valid="26" complexity="56" version="0" timestamp="1738071096">
   <sources>
     <source>C:\Users\99husmoh\</source>
   </sources>
   <packages>
-    <package name="TDDTest1" line-rate="0.688524590163934" branch-rate="0.555555555555556" complexity="22">
+    <package name="TDDTest1" line-rate="0.773809523809524" branch-rate="0.692307692307692" complexity="31">
       <classes>
         <class name="TDDTest1.Task.Program" filename="C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\Task\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -207,9 +207,77 @@
             <line number="26" hits="1" branch="false" />
           </lines>
         </class>
+        <class name="TDDTest1.Task.Task_5.BankAccount" filename="C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1\Task\Task 5\BankAccount.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="get_Balance" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name="Deposit" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="25" hits="3" branch="false" />
+                <line number="26" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="27" hits="2" branch="false" />
+                <line number="28" hits="2" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Withdraw" signature="(...)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="35" hits="4" branch="false" />
+                <line number="36" hits="4" branch="true" condition-coverage="100% (2/2)" />
+                <line number="37" hits="2" branch="false" />
+                <line number="38" hits="2" branch="false" />
+                <line number="41" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="42" hits="1" branch="false" />
+                <line number="43" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="15" hits="9" branch="false" />
+                <line number="16" hits="9" branch="false" />
+                <line number="17" hits="9" branch="true" condition-coverage="100% (2/2)" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="21" hits="8" branch="false" />
+                <line number="22" hits="8" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="2" branch="false" />
+            <line number="15" hits="9" branch="false" />
+            <line number="16" hits="9" branch="false" />
+            <line number="17" hits="9" branch="true" condition-coverage="100% (2/2)" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="21" hits="8" branch="false" />
+            <line number="22" hits="8" branch="false" />
+            <line number="25" hits="3" branch="false" />
+            <line number="26" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="27" hits="2" branch="false" />
+            <line number="28" hits="2" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="35" hits="4" branch="false" />
+            <line number="36" hits="4" branch="true" condition-coverage="100% (2/2)" />
+            <line number="37" hits="2" branch="false" />
+            <line number="38" hits="2" branch="false" />
+            <line number="41" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="42" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+          </lines>
+        </class>
       </classes>
     </package>
-    <package name="TDDTest1Tests" line-rate="0.990990990990991" branch-rate="1" complexity="16">
+    <package name="TDDTest1Tests" line-rate="0.993197278911565" branch-rate="1" complexity="25">
       <classes>
         <class name="AutoGeneratedProgram" filename="C:\Users\99husmoh\.nuget\packages\microsoft.net.test.sdk\17.11.1\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -281,6 +349,120 @@
             <line number="46" hits="1" branch="false" />
             <line number="48" hits="1" branch="false" />
             <line number="49" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TDDTest1.Task.Task_5.Tests.BankAccountTests" filename="C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Task\Task 5\BankAccountTests.cs" line-rate="1" branch-rate="1" complexity="9">
+          <methods>
+            <method name="Initialize" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="8" branch="false" />
+                <line number="19" hits="8" branch="false" />
+                <line number="20" hits="8" branch="false" />
+              </lines>
+            </method>
+            <method name="DepositTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="WithdrawTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_WhenOverdrawn" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="45" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+                <line number="50" hits="2" branch="false" />
+                <line number="51" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Deposit_ThrowsException_ForNegativeAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="55" hits="1" branch="false" />
+                <line number="57" hits="1" branch="false" />
+                <line number="60" hits="2" branch="false" />
+                <line number="61" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_ForNegativeAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+                <line number="70" hits="2" branch="false" />
+                <line number="71" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Withdraw_ThrowsException_ForZeroAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="75" hits="1" branch="false" />
+                <line number="77" hits="1" branch="false" />
+                <line number="80" hits="2" branch="false" />
+                <line number="81" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Deposit_ThrowsException_ForZeroAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="85" hits="1" branch="false" />
+                <line number="87" hits="1" branch="false" />
+                <line number="90" hits="2" branch="false" />
+                <line number="91" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="Account_ThrowsException_WhenInitializedWithNegativeBalance" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="95" hits="1" branch="false" />
+                <line number="97" hits="2" branch="false" />
+                <line number="98" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="8" branch="false" />
+            <line number="19" hits="8" branch="false" />
+            <line number="20" hits="8" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="50" hits="2" branch="false" />
+            <line number="51" hits="1" branch="false" />
+            <line number="55" hits="1" branch="false" />
+            <line number="57" hits="1" branch="false" />
+            <line number="60" hits="2" branch="false" />
+            <line number="61" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="70" hits="2" branch="false" />
+            <line number="71" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="77" hits="1" branch="false" />
+            <line number="80" hits="2" branch="false" />
+            <line number="81" hits="1" branch="false" />
+            <line number="85" hits="1" branch="false" />
+            <line number="87" hits="1" branch="false" />
+            <line number="90" hits="2" branch="false" />
+            <line number="91" hits="1" branch="false" />
+            <line number="95" hits="1" branch="false" />
+            <line number="97" hits="2" branch="false" />
+            <line number="98" hits="1" branch="false" />
           </lines>
         </class>
         <class name="TDDTest1Tests.Test.Test1.CalculatorTests" filename="C:\Users\99husmoh\source\repos\Test och kvalitet\TDDTest1\TDDTest1Tests\Test\Test1\CalculatorTests.cs" line-rate="1" branch-rate="1" complexity="6">

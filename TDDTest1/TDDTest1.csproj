@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Task\Task 4\" />
-    <Folder Include="Task\Task 5\" />
     <Folder Include="Task\Task 6\" />
     <Folder Include="Task\Task 7\" />
     <Folder Include="Task\Task 8\" />
