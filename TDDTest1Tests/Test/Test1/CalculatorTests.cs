@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 
-namespace TDDTest1.Task.Task_1.Tests
+namespace TDDTest1Tests.Test.Test1
 {
     [TestClass()]
     public class CalculatorTests

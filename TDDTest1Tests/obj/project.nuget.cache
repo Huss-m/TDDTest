@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d0AoBqev168=",
+  "dgSpecHash": "sp1pguVT1Hc=",
   "success": true,
   "projectFilePath": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\TDDTest1Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\99husmoh\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
@@ -19,7 +20,9 @@
     "C:\\Users\\99husmoh\\.nuget\\packages\\mstest.testadapter\\3.6.1\\mstest.testadapter.3.6.1.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\mstest.testframework\\3.6.1\\mstest.testframework.3.6.1.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\99husmoh\\.nuget\\packages\\nsubstitute\\5.3.0\\nsubstitute.5.3.0.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\99husmoh\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\99husmoh\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
