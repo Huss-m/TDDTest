@@ -56,21 +56,21 @@ public class WeatherServiceFacadeTests
     }
 
     [TestMethod]
-public async Task GetWeather_ReturnsMockedWeatherData_ForGothenburg()
-{
-    // Arrange
-    string city = "Göteborg";
-    string expectedWeather = "Rainy 12°C";
+    public async Task GetWeather_ReturnsMockedWeatherData_ForGothenburg()
+    {
+        // Arrange
+        string city = "Götebo";
+        string expectedWeather = "Rainy 12°C";
 
-    // Mocka att WeatherClient returnerar vädret för Göteborg
-    _mockWeatherClient
-        .GetCurrentWeatherAsync(city)
-        .Returns(Task.FromResult(expectedWeather));
+        // Mocka att WeatherClient returnerar vädret för Göteborg
+        _mockWeatherClient
+            .GetCurrentWeatherAsync(city)
+            .Returns(Task.FromResult(expectedWeather));
 
-    // Act
-    string actualWeather = await _weatherService.GetWeather(city);
+        // Act
+        string actualWeather = await _weatherService.GetWeather(city);
 
-    // Assert
-    Assert.AreEqual(expectedWeather, actualWeather);
-}
+        // Assert
+        Assert.AreEqual(expectedWeather, actualWeather);
+    }
 }
