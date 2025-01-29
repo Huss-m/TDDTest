@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1tests\\task\\task 5\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{700A073B-0F4F-4576-8F60-B89C4F16D831}|TDDTest1Tests\\TDDTest1Tests.csproj|solutionrelative:tddtest1tests\\task\\task 5\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|c:\\users\\99husmoh\\source\\repos\\test och kvalitet\\tddtest1\\tddtest1\\task\\task 5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B38BF9E-CB27-4284-9959-BE1C4B75E7C1}|TDDTest1\\TDDTest1.csproj|solutionrelative:tddtest1\\task\\task 5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,22 +28,9 @@
               "RelativeDocumentMoniker": "TDDTest1Tests\\Task\\Task 5\\BankAccountTests.cs",
               "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1Tests\\Task\\Task 5\\BankAccountTests.cs",
               "RelativeToolTip": "TDDTest1Tests\\Task\\Task 5\\BankAccountTests.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswCcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:20:48.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 5\\BankAccount.cs",
-              "RelativeDocumentMoniker": "TDDTest1\\Task\\Task 5\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\99husmoh\\source\\repos\\Test och kvalitet\\TDDTest1\\TDDTest1\\Task\\Task 5\\BankAccount.cs",
-              "RelativeToolTip": "TDDTest1\\Task\\Task 5\\BankAccount.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:16:21.991Z",
               "EditorCaption": ""
             }
           ]
